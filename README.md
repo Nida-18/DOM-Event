@@ -1,2 +1,2 @@
 # DOM-Event
-ZTM Dome Event
+ZTM Dom Event Exercise 
